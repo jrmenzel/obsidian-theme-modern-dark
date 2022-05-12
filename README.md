@@ -5,6 +5,8 @@ Intended to roughly match the style of Adwaita and VSCode in dark mode.
 
 Only dark mode is supported!
 
+![](screenshot.png)
+
 ## Installation
 
 1. Download obsidian.css
